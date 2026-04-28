@@ -12,3 +12,6 @@ Note: To build this project you need the boost library and provide its path to t
 
 ## JfxPassword Manager
 This was an initial attempt in making a password manager in Java and using SpringBoot technology. Although this project was not completed it serves as a good reference at any future attempts.
+
+## Sleep timer
+This app was created for a need but due to android restrictions it cant proceed and is thus infeasible. Just kept it for reference now.
